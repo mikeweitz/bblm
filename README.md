@@ -68,14 +68,16 @@ if you get a perms error, you can run bower as root:
 `sudo bower --allow-root install`
 
 
-### grunt
-Build for production
+## Grunt tasks:
+Build for production  
+`grunt`
 
-### grunt stage
-Build for stage (concat, but not compiled for easier debug)
+Build for stage (concat, but not compiled for easier debug)  
+`grunt stage`
 
-### grunt css -or- grunt sass
-just compile styles in /app folder (doesn't copy to dist)
+
+just compile styles in /app folder (doesn't copy to dist)  
+`grunt css` -or- `grunt sass`
 
 
 ## Recent Issues

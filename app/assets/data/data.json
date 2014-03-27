@@ -1,0 +1,11 @@
+{
+	"share": {
+		"path" : "http://domain.com",
+		"caption" : "Share Caption for Facebook"
+	},
+	"home" : {
+		"trailer": "http://m.youtube.com/watch?v=k85UwztJMhw",
+		"cta": "Watch the trailer"
+	}
+
+}
